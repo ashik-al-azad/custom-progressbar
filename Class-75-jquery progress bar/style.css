@@ -1,0 +1,11 @@
+.section-padding {
+  padding: 80px 0;
+}
+
+.section-padding.colored-bg {
+  background-color: #6ed3ee;
+  font-size: 18px;
+  font-weight: 300;
+  color: #fff;
+  line-height: 1.8;
+}

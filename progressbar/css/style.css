@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background: rgba(88, 76, 76, 0.8);
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p,
+h2 {
+    margin: 20px 0;
+}
+
+.progressbar-tooltip {
+    margin: 50px auto;
+    width: 50%;
+    padding-bottom: 50px;
+}
